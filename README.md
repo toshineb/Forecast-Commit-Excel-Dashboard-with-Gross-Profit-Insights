@@ -5,12 +5,12 @@ To help you follow along with the analysis and practice building the dashboard y
 
 You can download the dataset using the link below and use it to:
 
-    * Practice weekly forecast and commit analysis in Excel.
+    - Practice weekly forecast and commit analysis in Excel.
     
-    * Build KPI cards for TCV, ACV, achievement rate, and GAP.
+    - Build KPI cards for TCV, ACV, achievement rate, and GAP.
     
-    * Create weekly trend charts and exit scenario visuals.
+    - Create weekly trend charts and exit scenario visuals.
     
-    * Test pipeline coverage and top deals analysis.
+    - Test pipeline coverage and top deals analysis.
 
 This dataset is structured to support real-world weekly reviews and is suitable for analysts, account managers, and teams who want hands-on experience without working on raw or unorganized data.
